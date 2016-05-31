@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "DegordianBattle\\interfaces\\": "src/classes/interfaces",
+      "DegordianBattle\\abstracts\\": "src/classes/abstracts",
+      "DegordianBattle\\classes\\": "src/classes/"
+    }
+  }
+}
